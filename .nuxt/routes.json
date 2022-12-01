@@ -1,0 +1,16 @@
+[
+  {
+    "name": "employee",
+    "path": "/employee",
+    "component": "D:\\\\Misa-web\\\\pages\\\\employee.vue",
+    "chunkName": "pages/employee",
+    "_name": "_29ada3ad"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Misa-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1eaee263"
+  }
+]
